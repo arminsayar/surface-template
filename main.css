@@ -16,6 +16,13 @@ body {
 li {
   list-style: none;
 }
+#sign-a {
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 22px;
+  color: #9298b8;
+  font-weight: 400;
+}
 body {
   font-size: 1rem;
   color: #575e86;
@@ -779,6 +786,9 @@ input[type="range"]:focus::-ms-fill-upper {
   font-weight: 400;
 }
 #footer-sec2 > a:hover {
+  color: #e9ecf8;
+}
+#sign-a:hover {
   color: #e9ecf8;
 }
 #footer-a1,
