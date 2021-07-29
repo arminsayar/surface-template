@@ -1,1 +1,2 @@
-# surface-template
+# surface-template * DESKTOP VERSION *
+only HTML, CSS
